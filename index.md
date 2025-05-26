@@ -1,5 +1,5 @@
 <p align=center>
- <img src="images/teaser.jpg">
+ <img src="images/teaser.jpg" width="100%">
 </p>
 
 ## Authors
