@@ -5,7 +5,7 @@
 ## Authors
 
 
-* [Daniel Holz](https://ca.linkedin.com/in/daniel-holz-51104a32), École de technologie supérieure, Canada
+* [Daniel Holz](https://ca.linkedin.com/in/daniel-holz-51104a32), Unity Technologies & École de technologie supérieure, Canada
 * [Stefan Rhys Jeske](https://srjeske.de/), RWTH Aachen University, Germany
 * [Fabian Löschner](https://floeschner.de/), RWTH Aachen University, Germany
 * [Jan Bender](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
