@@ -5,9 +5,9 @@
 ## Authors
 
 
-* [Daniel Holz](https://profs.etsmtl.ca/sandrews/), École de technologie supérieure, Canada
-* [Stefan Rhys Jeske](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
-* [Fabian Löschner](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
+* [Daniel Holz](https://ca.linkedin.com/in/daniel-holz-51104a32), École de technologie supérieure, Canada
+* [Stefan Rhys Jeske](https://srjeske.de/), RWTH Aachen University, Germany
+* [Fabian Löschner](https://floeschner.de/), RWTH Aachen University, Germany
 * [Jan Bender](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
 * [Yin Yang](https://yangzzzy.github.io/), University of Utah, USA 
 * [Sheldon Andrews](https://profs.etsmtl.ca/sandrews/), École de technologie supérieure, Canada
