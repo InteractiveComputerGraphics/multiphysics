@@ -2,7 +2,31 @@
  <img src="images/teaser.jpg" width="100%">
 </p>
 
-## Authors
+
+
+---
+
+## Eurographics Tutorial 2026
+
+### Authors
+
+* [Fabian Löschner](https://floeschner.de/), RWTH Aachen University, Germany
+* [Stefan Rhys Jeske](https://srjeske.de/), RWTH Aachen University, Germany
+* [José Antonio Fernández-Fernández](https://animation.rwth-aachen.de/person/48/), RWTH Aachen University, Germany
+* [Jan Bender](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
+https://animation.rwth-aachen.de/person/48/
+ 
+### Paper
+
+* [Simulation Methods for Multiphysics Phenomena in Visual Computing](https://animation.rwth-aachen.de/media/papers/100/2026-EG-Multiphysics_Tutorial.pdf)
+
+<br>
+---
+<br>
+
+## Eurographics State-of-the-Art Report 2025 
+
+### Authors
 
 
 * [Daniel Holz](https://ca.linkedin.com/in/daniel-holz-51104a32), Unity Technologies & École de technologie supérieure, Canada
@@ -12,10 +36,6 @@
 * [Yin Yang](https://yangzzzy.github.io/), University of Utah, USA 
 * [Sheldon Andrews](https://profs.etsmtl.ca/sandrews/), École de technologie supérieure, Canada
 
-
----
-
-## Eurographics State-of-the-Art Report 2025 
 
 ### Paper
 
