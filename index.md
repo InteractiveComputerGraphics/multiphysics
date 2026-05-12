@@ -20,7 +20,6 @@ https://animation.rwth-aachen.de/person/48/
 
 * [Simulation Methods for Multiphysics Phenomena in Visual Computing](https://animation.rwth-aachen.de/media/papers/100/2026-EG-Multiphysics_Tutorial.pdf)
 
-<br>
 ---
 <br>
 
@@ -48,6 +47,7 @@ https://animation.rwth-aachen.de/person/48/
 * [Point-Based Multiphysics Modeling](slides/03_point_based.pdf)
 
 ---
+<br>
 
 ## Multiphysics Simulation Code
 
