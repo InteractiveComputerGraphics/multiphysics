@@ -14,7 +14,7 @@
 * [Stefan Rhys Jeske](https://srjeske.de/), RWTH Aachen University, Germany
 * [José Antonio Fernández-Fernández](https://animation.rwth-aachen.de/person/48/), RWTH Aachen University, Germany
 * [Jan Bender](https://www.animation.rwth-aachen.de), RWTH Aachen University, Germany
-https://animation.rwth-aachen.de/person/48/
+
  
 ### Paper
 
