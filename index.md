@@ -51,10 +51,22 @@ https://animation.rwth-aachen.de/person/48/
 
 ## Multiphysics Simulation Code
 
-SPlisHSPlasH is an open-source particle-based multiphysics simulation framework. You can download the code here:
+SPlisHSPlasH is an open-source particle-based multiphysics simulation framework: 
 
 * [SPlisHSPlasH](https://splishsplash.physics-simulation.org/)
 
-A constraint-based open-source framework for the simulation of rigid bodies, deformable solids and fluids can be downloaded here: 
+A constraint-based open-source framework for the simulation of rigid bodies, deformable solids and fluids: 
 
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+
+A C++ library for symbolic differentiation with automatic code generation, compilation and evaluation:
+
+* [SymX](https://github.com/InteractiveComputerGraphics/SymX)
+
+A C++ and Python simulation platform that provides easy access to state-of-the-art methods to robustly solve simulations of rigid and deformable objects in a strongly coupled manner:
+
+* [STARK](https://github.com/InteractiveComputerGraphics/stark)
+
+An introduction to state-of-the-art simulation methods for rigid bodies, deformable solids and fluids in the area of visual computing:
+
+* [Physics Simulation](https://interactivecomputergraphics.github.io/physics-simulation/)
