@@ -20,6 +20,14 @@
 
 * [Simulation Methods for Multiphysics Phenomena in Visual Computing](https://animation.rwth-aachen.de/media/papers/100/2026-EG-Multiphysics_Tutorial.pdf)
 
+### Slides
+
+* [Introduction](slides/01_Tutorial_-_Introduction.pdf)
+* [Mathematical Foundations](slides/02_Tutorial_-_Foundations.pdf)
+* [Energy-based Multiphysics Models](slides/03_Tutorial_-_Energy-based_Multiphysics_Models.pdf)
+* [Lagrangian Point-based Methods](slides/04_Tutorial_-_Lagrangian_Point-based_Methods.pdf)
+* [Constraint-based Simulation](slides/05_Tutorial_-_Constraint-based_Simulation.pdf)
+
 ---
 <br>
 
