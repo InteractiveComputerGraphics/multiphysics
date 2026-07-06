@@ -3,7 +3,6 @@
 </p>
 
 
-
 ---
 
 ## Eurographics Tutorial 2026
