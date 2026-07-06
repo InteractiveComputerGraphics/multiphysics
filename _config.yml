@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Multiphysics Simulation Methods in Computer Graphics
+exclude:
+  - README.md
